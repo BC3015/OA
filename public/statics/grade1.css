@@ -1,0 +1,67 @@
+
+#myPoint {
+	padding-right:0px;padding-left:0px;padding-bottom:15px;overflow:hidden;padding-top:0px;margin-bottom: 10px
+}
+#myPoint SPAN {
+	float:left;line-height:64px;font-family:Tahoma
+}
+#myPoint SPAN BIG {
+	font-weight:bold;font-size:60px
+}
+#myPoint SPAN SMALL {
+	font-size:30px
+}
+#myPoint DIV {
+	font-size:14px;float:left;margin:10px 0px 0px 10px;height:40px
+}
+#myPoint DIV IMG {
+	vertical-align:middle;margin-right:5px
+}
+#doPoint P {
+	padding-right:0px;padding-left:0px;padding-bottom:10px;padding-top:10px
+}
+#doPoint TR TD {
+	padding-right:5px;padding-left:5px;padding-bottom:3px;padding-top:3px
+}
+#doPoint TR TD IMG {
+	margin-top:5px
+}
+#doPoint TR TD STRONG {
+	font-size:14px;color:#f00
+}
+#doPoint SPAN {
+	display:block;background:url(star_small.gif) no-repeat 2px 0px;width:120px;height:20px
+}
+#doPoint SPAN SMALL {
+	font-size:0px;float:left;overflow:hidden;width:12px;cursor:pointer;padding-top:20px;height:0px
+}
+#doPoint .star10 {
+	background:url(star_small.gif) no-repeat 2px 0px
+}
+#doPoint .star9 {
+	background:url(star_small.gif) no-repeat 2px -20px
+}
+#doPoint .star8 {
+	background:url(star_small.gif) no-repeat 2px -40px
+}
+#doPoint .star7 {
+	background:url(star_small.gif) no-repeat 2px -60px
+}
+#doPoint .star6 {
+	background:url(star_small.gif) no-repeat 2px -80px
+}
+#doPoint .star5 {
+	background:url(star_small.gif) no-repeat 2px -100px
+}
+#doPoint .star4 {
+	background:url(star_small.gif) no-repeat 2px -120px
+}
+#doPoint .star3 {
+	background:url(star_small.gif) no-repeat 2px -140px
+}
+#doPoint .star2 {
+	background:url(star_small.gif) no-repeat 2px -160px
+}
+#doPoint .star1 {
+	background:url(star_small.gif) no-repeat 2px -180px
+}
